@@ -9,6 +9,9 @@
   ],
   "main": "src/index.tsx",
   "dependencies": {
+    "@chakra-ui/button": "1.4.1",
+    "@chakra-ui/icon": "1.1.10",
+    "@chakra-ui/icons": "1.0.14",
     "@chakra-ui/react": "1.6.5",
     "@emotion/core": "11.0.0",
     "@emotion/react": "11.4.0",
